@@ -67,7 +67,7 @@ h1 {
 
 .split.left {
     left: 0;
-    background: url('/img/renaissance-michelangelo-sculpture-david-florence.jpeg');
+    background: url('./img/renaissance-michelangelo-sculpture-david-florence.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -80,7 +80,7 @@ h1 {
 }
 .split.right {
     right: 0;
-    background: url('/img/1620119791_35-phonoteka_org-p-skulptura-fon-40.png');
+    background: url('./img/1620119791_35-phonoteka_org-p-skulptura-fon-40.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
